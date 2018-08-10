@@ -2,6 +2,17 @@
 
 > A Vue.js project
 
+## New Features:
+
+1. Completed task can be reverted back to pending
+
+## Stretch Goals: 
+
+* Deploy
+* Add sweetalerts
+* Make Data persistent
+* Better styling
+
 ## Build Setup
 
 ``` bash
